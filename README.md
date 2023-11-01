@@ -41,6 +41,7 @@ To run the program click on the init button (highlighted in yellow in fig. below
 
 Navigate the Program folder and choose which program you would like to run.
 On Accepting the file click ok then you will see in the console the lines of code that has been loaded into the memory.
+
 ![SS2](https://drive.google.com/uc?id=13yato7pvuNGm8nVeLsFGjy2vn_eNLH5J)
 
 ### 4. Testing the simulator
